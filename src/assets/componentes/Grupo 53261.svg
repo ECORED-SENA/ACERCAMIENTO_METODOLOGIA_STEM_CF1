@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1270" height="542" viewBox="0 0 1270 542">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectangle_652" data-name="Rectangle 652" d="M20,0H1250a20,20,0,0,1,20,20V520a20,20,0,0,1-20,20H20A20,20,0,0,1,0,520V20A20,20,0,0,1,20,0Z" transform="translate(-328.867 166.276)" fill="#5d4cbc" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_53261" data-name="Grupo 53261" transform="translate(325.867 -124.276)">
+    <path id="Rectangle_652-2" data-name="Rectangle 652" d="M20,0H1250a20,20,0,0,1,20,20V520a20,20,0,0,1-20,20H20A20,20,0,0,1,0,520V20A20,20,0,0,1,20,0Z" transform="translate(-325.867 126.277)" fill="#5d4cbc" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>
