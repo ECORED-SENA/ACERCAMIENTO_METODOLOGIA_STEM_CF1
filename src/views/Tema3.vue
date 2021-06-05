@@ -8,7 +8,7 @@
         .h3 3
       .h3 Propósitos de la educación STEM
 
-    p.mt-4 A nivel mundial existen muchas experiencias sobre la educación STEM, en especial en los Estados Unidos a partir de los estándares de tecnología y los nuevos estándares de Ciencias Naturales para las noveles generaciones, con los cuales se ha dado una gran revolución educativa, pero a nivel de Latinoamérica no es un tema muy difundido, por lo que este curso busca dar a conocer las características de esta nueva educación que busca transformar la educación para el siglo XXI.
+    p.mt-4 A nivel mundial existen muchas experiencias sobre la educación STEM, en especial en los Estados Unidos a partir de los estándares de tecnología y los nuevos estándares de Ciencias Naturales para las nuevas generaciones, con los cuales se ha dado una gran revolución educativa, pero a nivel de Latinoamérica no es un tema muy difundido, por lo que este curso busca dar a conocer las características de esta nueva educación que busca transformar la educación para el siglo XXI.
 
     p.mt-3 #[strong Se observa, entonces, cómo el marco de referencia motiva a la generación de ideas de cómo enseñar y aprender ciencias, siguiendo tres aspectos.]
 
@@ -64,7 +64,7 @@
         .mt-5.p-5(style="background-color:#EDFFF6;")
             p Se hace la analogía con la forma en que se almacenan lo granos, en este tipo de perspectiva las asignaturas de Ciencias y Matemáticas, incluyen contenido apreciable, las otras dos, Tecnología e Ingeniería, no tienen contenidos o no se están aplicando en el currículo escolar, esta perspectiva implica que no existe ningún nivel de integración.
 
-    p.mt-5 ¿Cómo hacer la integración curricular en áreas STEM?, A continuación, se deben observar las imágenes y las indicaciones para lograrlo.
+    p.mt-5 ¿Cómo hacer la integración curricular en áreas STEM?, a continuación, se deben observar las imágenes y las indicaciones para lograrlo.
 
     h5.mt-5.text-center La asignatura líder
 
@@ -145,7 +145,7 @@
             p Esta perspectiva es muy utilizada cuando se tiene un proyecto de investigación que busca responder a una pregunta de diseño y de tecnología, los estudiantes van pasando por las diferentes asignaturas tomando los elementos que necesitan para desarrollar el proyecto; es un proceso de información aislada, no holística.
 
     .titulo-segundo.mt-5
-        .h4 3.1.1. Niveles de la integración.
+        .h4 3.1.1. Niveles de la integración
 
     p.mt-4 Una educación STEM integrada permite a los docentes y los estudiantes poder observar el panorama completo del conocimiento que se le debe brindar a los estudiantes y cómo se articulan entre ellos. A continuación, se presentan algunos ejemplos:
 
@@ -157,7 +157,7 @@
 
     .col-11.mt-5(style="margin:0 auto;")
         .mt-5.p-5(style="background-color:#EDFFF6;")
-            p Perspectiva que presenta la integración de manera holística de manera transdisciplinaria, esta integración se presenta cuando se propone un proyecto que trata de resolver un problema de la vida real, permitiendo no solo integrar las asignaturas STEM, como el Arte, el Lenguaje, entre otras.
+            p Perspectiva que presenta la integración de manera holística y de manera transdisciplinaria, esta integración se presenta cuando se propone un proyecto que trata de resolver un problema de la vida real, permitiendo no solo integrar las asignaturas STEM, como el Arte, el Lenguaje, entre otras.
 
     br
 
@@ -183,7 +183,7 @@
 
     .col-11.mt-5(style="margin:0 auto;")
         .mt-5.p-5(style="background-color:#EDFFF6;")
-            p Esta perspectiva es la integración con mayor nivel  con mayor potencial para el éxito de la educación STEM, está basado en la teoría constructivista y totalmente centrado en el estudiante, pues le permite desarrollar habilidades del siglo XXI.
+            p Esta perspectiva es la integración con mayor nivel y con mayor potencial para el éxito de la educación STEM, está basado en la teoría constructivista y totalmente centrado en el estudiante, pues le permite desarrollar habilidades del siglo XXI.
 
     br
     br
@@ -257,7 +257,7 @@
                 p.mt-3 Es una oportunidad de descubrimiento que se hace mediante un proceso de análisis de resultados y es la clave para descubrir nuevas formas de realizar la tarea y lograr soluciones que no se habían ni siquiera considerado, el docente debe permitir a los estudiantes reflexionar sobre lo acontecido y la actividad queda incompleta, esto permite el desarrollo de habilidades como el pensamiento crítico, solución de problemas, creatividad y colaboración.
 
 
-    p.mt-5 Comprendida la información anterior, se han seleccionado algunas recomendaciones para el diseño de estrategias según autores como Traig, (2015) que complementan la propuesta de Vásquez, Sneier y Comer (2013). Ellas son:
+    p.mt-5 Comprendida la información anterior, se han seleccionado algunas recomendaciones para el diseño de estrategias según autores como Traig (2015), que complementan la propuesta de Vásquez, Sneier y Comer (2013). Ellas son:
 
     .row.mt-5
         .col-6
@@ -298,13 +298,13 @@
                     .col-auto
                         img.mt-2(src='@/assets/curso/tema3/31.svg' alt='AvatarTop')
                     .col
-                        p Orientar la clase mediante preguntas que despierten la curiosidad, para que verifiquen si con sus conocimientos están logrando la solución aceptable. Ejemplo: ¿Usted qué piensa de esto? ¿Ya probaron esto y aquello? ¿Qué evidencia apoya su afirmación? ¿Habrá otra explicación adicional?
+                        p Orientar la clase mediante preguntas que despierten la curiosidad, para que verifiquen si con sus conocimientos están logrando la solución aceptable. Ejemplo: ¿Usted qué piensa de esto?, ¿Ya probaron esto y aquello?, ¿Qué evidencia apoya su afirmación?, ¿Habrá otra explicación adicional?
 
                 .row.mb-3
                     .col-auto
                         img.mt-2(src='@/assets/curso/tema3/31.svg' alt='AvatarTop')
                     .col
-                        p.mb-3 Presentar actividades siempre nuevas de manera tal que los estudiantes no se presenten en situaciones desalentadoras porque ya conocen la dinámica de la actividad; el docente deberá mantener un repositorio de temas nuevos para evitar estas situaciones y mantener la misma dinámica de los estudiantes estar al descubrimiento de nuevo conocimiento.
+                        p.mb-3 Presentar actividades siempre nuevas de manera tal que los estudiantes no se presenten en situaciones desalentadoras porque ya conocen la dinámica de la actividad; el docente deberá mantener un repositorio de temas nuevos para evitar estas situaciones y mantener la misma dinámica de los estudiantes de estar al descubrimiento de nuevo conocimiento.
 
     br
     br
@@ -366,7 +366,7 @@
               b Mejora continua: 
             p es importante dar la oportunidad a nuevas evidencias de conocimiento y desempeño que deben primar sobre las anteriores, el estudiante debe encontrar opciones de evaluación que le ayuden a mostrar su conocimiento.
 
-    p.mt-5 Se han descrito algunas recomendaciones para la evaluación, pero surge la pregunta ¿cómo estructurar una evaluación de una actividad STEM?, para encontrar una respuesta a este interrogante es importante partir de la concepción de evaluación del National Research Council of the National Academies (2012)0, que la define como la forma de medir los resultados del currículo y los procesos de formación y logros de los estudiantes.
+    p.mt-5 Se han descrito algunas recomendaciones para la evaluación, pero surge la pregunta ¿cómo estructurar una evaluación de una actividad STEM?, para encontrar una respuesta a este interrogante es importante partir de la concepción de evaluación del National Research Council of the National Academies (2012), que la define como la forma de medir los resultados del currículo y los procesos de formación y logros de los estudiantes.
 
     p.mt-3 #[strong En este sentido, se presenta algunas condiciones deseables para construir un buen sistema de evaluación, dos marcos de referencia. Ahora, se debe revisar la siguiente información.]
 
@@ -377,9 +377,9 @@
                     p.text-center #[strong(style="color:#31326F;") Ambiente de aprendizaje]
                     p.mt-4 Estos se caracterizan por proveer experiencias de tipo holístico del hacer.
                 .p-5(style="background-color:#9DDFD3;min-height:420px;")
-                    p #[strong Centrado en el conocimiento:] está basado en lo que se quiere que los estudiantes aprendan y estén en capacidad de hacer.
+                    p #[strong Centrado en el conocimiento:] está basado en lo que se quiere, que los estudiantes aprendan y estén en capacidad de hacer.
 
-                    p.mt-3 #[strong Centrado en los estudiantes:]  conectará fortalezas, los intereses y las preconcepciones con las actividades y tareas que les permitirá identificarse como personas dentro de una evolución de aprendizaje
+                    p.mt-3 #[strong Centrado en los estudiantes:]  conectará las fortalezas, los intereses y las preconcepciones con las actividades y tareas que les permitirá identificarse como personas dentro de una evolución de aprendizaje
 
                     p.mt-3 #[strong Centrado en la evaluación:]  ofrecerá muchas oportunidades para monitorear el avance y hacer evidente el progreso durante el desarrollo de las actividades.
 
@@ -394,7 +394,7 @@
                     p.text-white.mt-4 ¿Qué tan profundo es su conocimiento?
                     p.text-white.mt-4 ¿Qué tan bien pueden aplicar los estudiantes este conocimiento?
 
-    p.mt-5 Sumado a lo anterior es importante definir los tipos de evaluación que se pueden implementar en la educación STEM. Para más información, se debe explorar el siguiente gráfico y responder ¿qué se puedes asocia con esta representación gráfica en el contexto de enseñanza y aprendizaje?
+    p.mt-5 Sumado a lo anterior es importante definir los tipos de evaluación que se pueden implementar en la educación STEM. Para más información, se debe explorar el siguiente gráfico y responder ¿cómo podrías asociar la información que se presentará en su práctica de enseñanza?
 
     .col-10.mt-5.text-center(style="margin:0 auto;")
         img.mt-2(src='@/assets/curso/tema3/32.svg' alt='AvatarTop')

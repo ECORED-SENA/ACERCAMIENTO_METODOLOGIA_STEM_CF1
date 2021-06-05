@@ -30,7 +30,7 @@
       .col-md-4.col-lg.mb-5.pl-0.pr-0.ml-0.mr-0
         .tarjeta-Avatar
           img(src='@/assets/curso/tema1/3.svg' alt='AvatarTop')
-          .tarjeta.color-primario.text-white.p-4(style="background-color:#FFC93C;border-radius:0px;min-height:470px;")
+          .tarjeta.color-primario.text-white.p-4(style="background-color:#FFC93C;border-radius:0px;min-height:500px;")
             .h5.mt-3.text-center(style="color:#12263F;") ¿Cuál cree son los orígenes de la ciencia?
             p(style="color:#12263F;") Es una pregunta interesante y que en cualquier momento de la existencia se hace, pero, #[strong(style="color:#12263F;") ¿cuál es su origen?, ¿de dónde viene?] #[br] Se sugiere observar el siguiente video para fomentar su curiosidad.
 
@@ -40,15 +40,15 @@
       .col-md-4.col-lg.mb-5.pl-0.pr-0.ml-0.mr-0
         .tarjeta-Avatar
           img(src='@/assets/curso/tema1/4.svg' alt='AvatarTop')
-          .tarjeta.color-primario.text-white.p-4(style="background-color:#9DDFD3;border-radius:0px;min-height:470px;")
+          .tarjeta.color-primario.text-white.p-4(style="background-color:#9DDFD3;border-radius:0px;min-height:500px;")
             .h5.mt-3.text-center(style="color:#12263F;") ¿Qué es la tecnología?
             p(style="color:#12263F;") El entorno natural se ha transformado a partir del conocimiento desarrollado por el ser humano, ¿quién ha aplicado este a su contexto?, ¿será que todo lo que existe en el mundo es tecnología? Encuentre una respuesta con las reflexiones de este curso.
 
       .col-md-4.col-lg.mb-5.pl-0.pr-0.ml-0.mr-0
         .tarjeta-Avatar
           img(src='@/assets/curso/tema1/5.svg' alt='AvatarTop')
-          .tarjeta.color-primario.text-white.p-4(style="background-color:#CC3D60;border-radius:0px;min-height:470px;")
-            .h5.mt-3.text-center ¿Qué es la Ingeniería?
+          .tarjeta.color-primario.text-white.p-4(style="background-color:#CC3D60;border-radius:0px;min-height:500px;")
+            .h5.mt-3.text-center ¿Qué es la ingeniería?
             p La solución de problemas hace parte de las características de la ingeniería. Para saber más sobre ella, se sugiere revisar la siguiente página web.
 
             .mt-5
@@ -57,8 +57,8 @@
       .col-md-4.col-lg.mb-5.pl-0.pr-0.ml-0.mr-0
         .tarjeta-Avatar
           img(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
-          .tarjeta.color-primario.text-white.p-4(style="background-color:#81C140;border-radius:0px;min-height:470px;")
-            .h5.mt-3.text-center(style="color:#12263F;") ¿Qué es la Ingeniería?
+          .tarjeta.color-primario.text-white.p-4(style="background-color:#81C140;border-radius:0px;min-height:500px;")
+            .h5.mt-3.text-center(style="color:#12263F;") ¿Cual es el origen de las Matemáticas?
             p(style="color:#12263F;") Mayor, menor, cantidad… son algunas palabras que llevan a pensar en los números, los cuales son objeto de las matemáticas que es un universo interesante y desafiante para muchos. Para más información, revisar el siguiente documento desde la página 45 a la 60. Enlace:
 
             .mt-5
@@ -67,7 +67,7 @@
     .mt-4.p-4(style="background-color:#EDFFF6;")
       p Ahora, cuando se han reconocido los aspectos que hacen referencia al acrónimo STEM, se sugiere explorar el sitio web Suturi Neff que ha creado una línea de tiempo de la historia de la educación STEM. Para más información ver el siguiente enlace:
 
-      a.anexo.mb-4.mb-lg-0.mt-4.bg-white.col-6(href="#" target="_blank")
+      a.anexo.mb-4.mb-lg-0.mt-4.bg-white.col-6(href="https://www.sutori.com/story/a-history-of-stem-education--XsxYavG6btgGC6fihNfrMbYa" target="_blank")
         .anexo__icono(style="background-color:#FFC93C")
           img(src="@/assets/curso/tema1/7.svg")
         .anexo__texto
@@ -128,7 +128,7 @@
             img(src='@/assets/curso/tema1/13.svg', alt='Avatar')
       
         .col-md-8.mt-4
-          p En el siglo XXI se en un mundo hiperconectado con diversos y grandes problemas que a veces parece no se logran resolver, pero se abren nuevas formas y horizontes para interactuar en la sociedad.
+          p En el siglo XXI surge un mundo hiperconectado con diversos y grandes problemas que a veces parece no se logran resolver, pero se abren nuevas formas y horizontes para interactuar en la sociedad.
 
       .row.col-10(titulo="7" style="margin:0 auto;")
         .col-md-4.mb-4.mb-md-0

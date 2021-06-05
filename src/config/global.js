@@ -111,61 +111,32 @@ export default {
     },
     contenidoInstruccional: [
       {
-        nombre: 'Gloria Matilde Lee Mejía',
-        cargo: 'Responsable del equipo',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
+        cargo: 'Asesor metodológico y pedagógico',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Astrid Lili Puerta',
+        nombre: 'María Cristina Hurtado Zúñiga',
         cargo: 'Experta temática',
-        centro: 'Centro Agropecuario de Buga',
-        regional: 'Regional valle',
+        centro: 'Centro de Diseño Tecnológico Industrial',
       },
       {
-        nombre: 'Javier Enrique Santana',
-        cargo: 'Experto temático',
-        centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Michael Andrés Cortés Caro',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Mauricio Jiménez Fajardo',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Manuel Alejandro Garzón Cárdenas',
-        cargo: 'Experto temático',
-        centro: 'Deutsche Gesellschaft für',
-        regional: 'Internationale Zusammenarbeit (GIZ)',
-      },
-      {
-        nombre: 'Liliana Victoria Morales Gualdrón',
+        nombre: 'Cristian Metaute Medina',
         cargo: 'Diseñador instruccional',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
+        centro: 'Centro para la Industria de la Comunicación Gráfica del Sena',
       },
       {
-        nombre: 'Carlos Andrés Rodríguez',
-        cargo: 'Evaluador instruccional',
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisión metodológica y pedagógica',
         centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Revisora de estilo',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro para la Industria de la Comunicación Gráfica del Sena',
+      },
+      {
         regional: 'Regional Distrito Capital',
       },
     ],
@@ -176,15 +147,22 @@ export default {
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Integración de recursos y pruebas',
+        cargo: 'Soporte organizacional',
       },
       {
-        nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
-        cargo: 'Diseño web y Producción Audiovisual',
+        nombre: ['Juan Carlos Tapias Rueda', 'Carlos Julián Ramírez Benítez'],
+        cargo: 'Diseño web',
       },
       {
-        nombre: 'Edward Leonardo Pico Cabra',
+        nombre: [
+          'Andrea Paola Botello De la Rosa',
+          'Luis Jesús Pérez Madariaga',
+        ],
         cargo: 'Desarrollo Front-End',
+      },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Revisión de contenido',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -193,8 +171,11 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: [
+          'Validación y vinculación en plataforma LMS',
+          'Validación de recursos',
+        ],
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },
@@ -268,7 +249,7 @@ export default {
     {
       termino: 'ACOLA',
       significado:
-        'Australian Council of Learned Academies. Modelo de actividad interdisciplinaria de larga duración que utiliza la educación STEM.',
+        ' Australian Council of Learned Academies. Modelo de actividad interdisciplinaria de larga duración que utiliza la educación STEM.',
     },
     {
       termino: 'CTM',
@@ -278,11 +259,11 @@ export default {
     {
       termino: 'NGSS',
       significado:
-        'Next Generation Science Standards. Estándares de ciencias para la próxima generación.',
+        ' Next Generation Science Standards. Estándares de ciencias para la próxima generación.',
     },
     {
       termino: 'OCDE',
-      significado: 'Organización para la Colaboración y Desarrollo Económico.',
+      significado: ' Organización para la Colaboración y Desarrollo Económico.',
     },
   ],
   complementario: [
