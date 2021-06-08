@@ -296,7 +296,7 @@
               img(src='@/assets/curso/tema2/21.png', alt='Ingeniería')
 
     .p-5.mt-5.fondo_imagen2
-      h6 Conceptos Transversales
+      h6 Conceptos transversales
 
       p.mt-3 En este punto se ha organizado y seleccionando información para poder reflexionar y aplicarla en el contexto de enseñanza y aprendizaje. Se sugiere dar clic en cado uno para poder aplicar esto en su contexto.
 
