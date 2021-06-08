@@ -298,7 +298,7 @@
                     .col-auto
                         img.mt-2(src='@/assets/curso/tema3/31.svg' alt='AvatarTop')
                     .col
-                        p Orientar la clase mediante preguntas que despierten la curiosidad, para que verifiquen si con sus conocimientos están logrando la solución aceptable. Ejemplo: ¿Usted qué piensa de esto?, ¿Ya probaron esto y aquello?, ¿Qué evidencia apoya su afirmación?, ¿Habrá otra explicación adicional?
+                        p Orientar la clase mediante preguntas que despierten la curiosidad, para que verifiquen si con sus conocimientos están logrando la solución aceptable. Ejemplo: ¿usted qué piensa de esto?, ¿ya probaron esto y aquello?, ¿qué evidencia apoya su afirmación?, ¿habrá otra explicación adicional?
 
                 .row.mb-3
                     .col-auto
@@ -322,7 +322,7 @@
               .h4 1
             p 
               b Forma de evaluación:
-            p el estudiante debe entender desde el principio de la actividad la forma de evaluación. Es muy importante que se les expongan a los estudiantes las “reglas del juego” así sabrán que se espera de ellos y que deberán esforzarse para cumplir con los requerimientos.
+            p El estudiante debe entender desde el principio de la actividad la forma de evaluación. Es muy importante que se les expongan a los estudiantes las “reglas del juego” así sabrán que se espera de ellos y que deberán esforzarse para cumplir con los requerimientos.
 
         .col-md-4.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-primario.p-5(style="border-color:#FFC93C;")
@@ -330,7 +330,7 @@
               .h4 2
             p 
               b Criterios de evaluación:
-            p se deben exponer los criterios de evaluación desde el inicio de las actividades, indicando cuáles serán los grados de desempeño; por ejemplo, con rúbricas, será más fácil que él comprenda, que no es solo lo que se le pide sino el grado de calidad que será aceptable.
+            p Se deben exponer los criterios de evaluación desde el inicio de las actividades, indicando cuáles serán los grados de desempeño; por ejemplo, con rúbricas, será más fácil que él comprenda, que no es solo lo que se le pide sino el grado de calidad que será aceptable.
 
         .col-md-4.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-primario.p-5(style="border-color:#31326F;")
@@ -338,7 +338,7 @@
               .h4 3
             p 
               b Demostración de conocimientos:
-            p se le debe brindar al estudiante la forma adecuada de demostrar sus conocimientos y desempeños; la planeación de una actividad debe ser lo suficientemente flexible para realizar la evaluación eje: informe, debate, presentación, entre otros.
+            p Se le debe brindar al estudiante la forma adecuada de demostrar sus conocimientos y desempeños; la planeación de una actividad debe ser lo suficientemente flexible para realizar la evaluación eje: informe, debate, presentación, entre otros.
 
     .row.mb-5.mt-5
         .col-md-4.col-xl.mb-4.mb-xl-0
@@ -347,7 +347,7 @@
               .h4 4
             p 
               b Evaluación diagnóstica:
-            p el docente debe destinar el tiempo necesario para realizar una evaluación diagnóstica de conocimientos previos, ya que esto marcará al docente el camino que debe seguir para abordar la actividad STEM. Por ejemplo, si para una actividad es necesario el conocimiento de la hoja de cálculo, se debe sacar el tiempo para que los estudiantes la dominen al grado de conocimiento que requiere la actividad propuesta.
+            p El docente debe destinar el tiempo necesario para realizar una evaluación diagnóstica de conocimientos previos, ya que esto marcará al docente el camino que debe seguir para abordar la actividad STEM. Por ejemplo, si para una actividad es necesario el conocimiento de la hoja de cálculo, se debe sacar el tiempo para que los estudiantes la dominen al grado de conocimiento que requiere la actividad propuesta.
 
         .col-md-4.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-primario.p-5(style="border-color:#9A9A9A;")
@@ -355,7 +355,7 @@
               .h4 5
             p 
               b Autoevaluación:
-            p  los estudiantes deben fijarse sus propios retos. El docente debe hacer que el estudiante se autoevalúe y que se establezca metas o retos, esto es muy importante para un mejor desempeño.
+            p  Los estudiantes deben fijarse sus propios retos. El docente debe hacer que el estudiante se autoevalúe y que se establezca metas o retos, esto es muy importante para un mejor desempeño.
             br
 
         .col-md-4.col-xl.mb-4.mb-xl-0
@@ -364,7 +364,7 @@
               .h4 6
             p 
               b Mejora continua: 
-            p es importante dar la oportunidad a nuevas evidencias de conocimiento y desempeño que deben primar sobre las anteriores, el estudiante debe encontrar opciones de evaluación que le ayuden a mostrar su conocimiento.
+            p Es importante dar la oportunidad a nuevas evidencias de conocimiento y desempeño que deben primar sobre las anteriores, el estudiante debe encontrar opciones de evaluación que le ayuden a mostrar su conocimiento.
 
     p.mt-5 Se han descrito algunas recomendaciones para la evaluación, pero surge la pregunta ¿cómo estructurar una evaluación de una actividad STEM?, para encontrar una respuesta a este interrogante es importante partir de la concepción de evaluación del National Research Council of the National Academies (2012), que la define como la forma de medir los resultados del currículo y los procesos de formación y logros de los estudiantes.
 
@@ -394,7 +394,7 @@
                     p.text-white.mt-4 ¿Qué tan profundo es su conocimiento?
                     p.text-white.mt-4 ¿Qué tan bien pueden aplicar los estudiantes este conocimiento?
 
-    p.mt-5 Sumado a lo anterior es importante definir los tipos de evaluación que se pueden implementar en la educación STEM. Para más información, se debe explorar el siguiente gráfico y responder ¿cómo podrías asociar la información que se presentará en su práctica de enseñanza?
+    p.mt-5 Sumado a lo anterior es importante definir los tipos de evaluación que se pueden implementar en la educación STEM. Para más información, se debe explorar el siguiente gráfico y responder ¿cómo podrías asociar la información que se presentará en tú práctica de enseñanza?
 
     .col-10.mt-5.text-center(style="margin:0 auto;")
         img.mt-2(src='@/assets/curso/tema3/32.svg' alt='AvatarTop')
@@ -448,7 +448,7 @@ export default {
 }
 </script>
 
-<style lang="sass" scoped>
+<style lang="sass">
 .titulo-principal__numero .h3
   color: #31326F !important
 .pl-0
@@ -461,4 +461,8 @@ export default {
   margin-right: 0px !important
 .img_thumbnail
   max-width: 70px
+.slyder-b__slyde .h3
+    font-size: 1.25em
+.slyder-b__slyde .h5
+    font-size: 1.25em
 </style>

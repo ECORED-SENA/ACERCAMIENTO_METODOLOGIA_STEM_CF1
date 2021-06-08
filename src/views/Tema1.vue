@@ -58,7 +58,7 @@
         .tarjeta-Avatar
           img(src='@/assets/curso/tema1/6.svg' alt='AvatarTop')
           .tarjeta.color-primario.text-white.p-4(style="background-color:#81C140;border-radius:0px;min-height:500px;")
-            .h5.mt-3.text-center(style="color:#12263F;") ¿Cual es el origen de las Matemáticas?
+            .h5.mt-3.text-center(style="color:#12263F;") ¿Cual es el origen de las matemáticas?
             p(style="color:#12263F;") Mayor, menor, cantidad… son algunas palabras que llevan a pensar en los números, los cuales son objeto de las matemáticas que es un universo interesante y desafiante para muchos. Para más información, revisar el siguiente documento desde la página 45 a la 60. Enlace:
 
             .mt-5

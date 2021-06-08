@@ -136,9 +136,9 @@
 
               p.mt-4 Existe una clara diferencia en el planteamiento de preguntas en la práctica de científica y práctica de ingeniería, a continuación, se presentan dos ejemplos:
 
-              p.mt-4 #[strong Ciencias:] se realizan preguntan sobre el fenómeno en particular como: ¿Por qué calienta el sol? ¿Cómo se genera el efecto manada? Estas preguntas no llevan a buscar explicaciones y a generar teorías.
+              p.mt-4 #[strong Ciencias:] se realizan preguntan sobre el fenómeno en particular como: ¿por qué calienta el sol? ¿cómo se genera el efecto manada? Estas preguntas no llevan a buscar explicaciones y a generar teorías.
 
-              p.mt-4 #[strong Ingeniería:] se inicia con un problema que debe ser resuelto como: ¿Cómo reciclar de manera eficiente en la comuna? ¿Cómo mejorar el sistema de movilidad de la ciudad? Estas preguntas buscan encontrar soluciones a problemas reales del entorno de los estudiantes; una de las habilidades más importantes que se desarrollan es volver al estudiante un solucionador de problemas con sus restricciones y lograr criterios para soluciones efectivas.
+              p.mt-4 #[strong Ingeniería:] se inicia con un problema que debe ser resuelto como: ¿cómo reciclar de manera eficiente en la comuna? ¿cómo mejorar el sistema de movilidad de la ciudad? Estas preguntas buscan encontrar soluciones a problemas reales del entorno de los estudiantes; una de las habilidades más importantes que se desarrollan es volver al estudiante un solucionador de problemas con sus restricciones y lograr criterios para soluciones efectivas.
         
           .col-md-3.mt-5
             figure
@@ -350,7 +350,7 @@
         .row.p-3(titulo="Energía y materia (flujos, ciclos y conservación)")
           .col-md-6.mb-4.mb-md-0
               p #[strong Energía y materia (flujos, ciclos y conservación)]
-              p.mt-3 Este tema incluye también los ciclos naturales y artificiales, como el ciclo del agua o un ciclo de enfriamiento en una planta de producción, entre otros. Al considerar un sistema se deben reconocer las entradas, las salidas y los flujos que se presentan en el mismo, Estos conceptos refuerzan una gran cantidad de temas de aprendizaje de diversas asignaturas en la vida escolar.
+              p.mt-3 Este tema incluye también los ciclos naturales y artificiales, como el ciclo del agua o un ciclo de enfriamiento en una planta de producción, entre otros. Al considerar un sistema se deben reconocer las entradas, las salidas y los flujos que se presentan en el mismo, estos conceptos refuerzan una gran cantidad de temas de aprendizaje de diversas asignaturas en la vida escolar.
 
           .col-md-6.row
             .col-md-6.mb-3
