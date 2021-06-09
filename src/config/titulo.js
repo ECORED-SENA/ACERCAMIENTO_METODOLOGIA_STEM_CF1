@@ -1,1 +1,1 @@
-module.exports = 'Acercamiento a la metodología STEM: ideas para implementarla'
+module.exports = 'Introducción a la educación STEM'

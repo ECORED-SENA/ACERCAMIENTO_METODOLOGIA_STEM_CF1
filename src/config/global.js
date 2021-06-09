@@ -150,6 +150,23 @@ export default {
         cargo: 'Soporte organizacional',
       },
       {
+        nombre: [
+          'Zuleidy Maria Ruiz Torres',
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Daniela Muñoz Bedoya',
+          'Andrés Felipe Herrera',
+          'Maria Carolina Tamayo',
+          'Víctor Cardenas',
+          'Jose Tang',
+          'Camilo Villamizar',
+          'Ricardo Vasquez',
+          'Angela Maldonado',
+          'Lina Marcela Perez',
+        ],
+        cargo: 'Producción audiovisual',
+      },
+      {
         nombre: ['Juan Carlos Tapias Rueda', 'Carlos Julián Ramírez Benítez'],
         cargo: 'Diseño web',
       },
