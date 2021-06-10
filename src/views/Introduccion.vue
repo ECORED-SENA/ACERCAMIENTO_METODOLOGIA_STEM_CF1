@@ -13,7 +13,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Qk5LS8GRcAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mt-4 Apreciado participante, bienvenido a este momento de aprendizaje orientado a la identificación de las características de la educación STEM y sus actividades de aprendizaje, en este sentido se le sugiere revisar la siguiente infografía para reconocer el contexto de aprendizaje. Adelante. 
+    p.mt-4 Apreciado participante, bienvenido a este momento de aprendizaje orientado a la identificación de las características de la educación STEM y sus actividades de aprendizaje.
       
 </template>
 
